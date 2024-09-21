@@ -1,22 +1,32 @@
-{
-	"movies": [
+[
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "A Body That’s All Surface",
+			"Author": "Elisabeth Nicula",
+			"Date": "February 27th 2024",
+			"Excerpt": "I am going to describe something that I think is idealistic. 
+			Idealism can be practical because the world we want must be drawn upon the world we live in, 
+			and also because it necessitates a collaboration — 
+			I imagine something different and you imagine something back."
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "The Disappearing Art Of Maintenance",
+			"Author": "Alex Vuocolo",
+			"Date": "September 22, 2002",
+			"Summary": "The R32 trains, nicknamed the Brightliners for their shiny unpainted exteriors, 
+			were built to last 35 years. (Imagine that: Your lifespan stamped into metal, your death prefigured.) 
+			When they were finally retired from service in January, they had been riding the rails of New York City 
+			for no less than 58 years and were, by most accounts, the oldest operating subway cars in the world."
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Title": "The White Bird",
+			"Author": "John Berger",
+			"Date": "January 1986",
+			"Summary": "FROM TIME TO TIME I HAVE BEEN INVITed by institutions to speak about aesthetics. On
+			one occasion I considered accepting and I
+			thought of taking with me a bird made of white
+			wood. But I didn't go. The problem is that you
+			can't talk about aesthetics without talking
+			about the principle of hope and the existence of
+			evil."
+		},
 	]
-}

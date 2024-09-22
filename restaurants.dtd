@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT restaurants (restaurant+)>
+<!ELEMENT restaurant (name, cuisine, city, open, close)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT open (#PCDATA)>
+<!ELEMENT close (#PCDATA)>
+
+<!-- #PCDATA: text (character data)
+#IMPLIED means optional attribute
+( x | y) means OR
++ means non-empty list -->
